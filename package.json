@@ -62,9 +62,9 @@
     "express": "^4.12.4",
     "mock-req": "^0.2.0",
     "mock-res": "^0.3.0",
-    "nyc": "^2.2.1",
+    "nyc": "^5.0.0",
     "supertest": "^1.0.1",
-    "tap": "^1.2.0"
+    "tap": "^3.0.0"
   },
   "dependencies": {
     "adaro": "^1.0.1",
